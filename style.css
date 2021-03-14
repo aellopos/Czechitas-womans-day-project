@@ -1,0 +1,18 @@
+body {
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+.pozvanka {
+    margin: 0 30%;
+}
+
+.pozvanka img {
+    width: 100%;
+}
+
+.pozvanka p {
+    text-align: justify;
+}
