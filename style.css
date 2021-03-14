@@ -1,13 +1,13 @@
 body {
-    font-family: 'Dancing Script', cursive;
-    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
     background-image: url(images/watercolor.png);
     margin: 0;
     padding: 0;
 }
 
 .pozvanka {
-    margin: 0 25%;
+    margin: 0 30%;
     background-color: white;
     height: 100vh;
 }
@@ -18,5 +18,5 @@ body {
 
 .pozvanka p {
     text-align: justify;
-    padding: 20px;
+    padding: 10px;
 }
